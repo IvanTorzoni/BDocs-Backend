@@ -104,7 +104,7 @@
             datasets: [
                 // dataset 1 con le recensioni
                 {
-                    label: 'Recensioni',
+                    label: 'recensioni',
                     data: reviewsData,
                     backgroundColor: 'rgba(75, 192, 192, 0.2)',
                     borderColor: 'rgba(75, 192, 192, 1)',
